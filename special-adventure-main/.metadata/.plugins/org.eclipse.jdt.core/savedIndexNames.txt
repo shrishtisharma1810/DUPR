@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\shris\special-adventure-main\special-adventure-main\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+619776932.index
+3243710315.index
